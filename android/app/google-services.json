@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748630152249",
+    "project_id": "eshop-1fd49",
+    "storage_bucket": "eshop-1fd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748630152249:android:c6bb76ef591b49ebd729e8",
+        "android_client_info": {
+          "package_name": "com.maroun.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748630152249-iu8u4ut0vkiiivd3appr3oqiajdqtnur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNbgO5oegAjTAPB_yfc7K9KZabF-cQ-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748630152249-iu8u4ut0vkiiivd3appr3oqiajdqtnur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
